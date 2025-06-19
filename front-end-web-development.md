@@ -25,3 +25,4 @@
 - **[Typing Practice](www.keybr.com)**: site to improve typing speed
 - **Cornell Note Taking System**: Topic, Keywords, Notes, Summary
 - **[stack overflow](www.stackoverflow.com)**: site to visit when encourtered with unfamillier error
+- **Windows+Shift+S**: Shortcut to crop screen shot
