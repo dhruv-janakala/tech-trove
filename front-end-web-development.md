@@ -19,3 +19,9 @@
 ## Lecture 06
 - **Websites**: Consist of **HTML** *(Contents)* + **CSS** *(Stylings)* + **JS** *(Interactive Ness)*
 - **Inspect**: a chrome developer tool, used to invest and edit for temporary changes
+
+## Lecture 07-09
+- Course Guidance
+- **[Typing Practice](www.keybr.com)**: site to improve typing speed
+- **Cornell Note Taking System**: Topic, Keywords, Notes, Summary
+- **[stack overflow](www.stackoverflow.com)**: site to visit when encourtered with unfamillier error
