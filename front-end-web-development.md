@@ -15,3 +15,7 @@
 - **[NsLookup.io](https://www.nslookup.io/)**: Used to see active location of domains
 - **[Submarine Cable Map](https://www.submarinecablemap.comhttps://www.submarinecablemap.com)**: Used to see active location of under sea cables
 - Speed of Light: 7.5 orbits per second at surface
+
+## Lecture 06
+- **Websites**: Consist of **HTML** *(Contents)* + **CSS** *(Stylings)* + **JS** *(Interactive Ness)*
+- **Inspect**: a chrome developer tool, used to invest and edit for temporary changes
